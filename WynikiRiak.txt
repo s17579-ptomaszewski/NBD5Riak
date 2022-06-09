@@ -1,0 +1,144 @@
+1.1
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:46:29 GMT
+Content-Type: application/json
+Content-Length: 0
+
+1.2
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:46:51 GMT
+Content-Type: application/json
+Content-Length: 0
+
+1.3
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:47:10 GMT
+Content-Type: application/json
+Content-Length: 0
+
+1.4
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:47:22 GMT
+Content-Type: application/json
+Content-Length: 0
+
+1.5
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:47:37 GMT
+Content-Type: application/json
+Content-Length: 0
+
+2.0
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvjcqLHgJZDNlMCUy5rEymD4Tu8OXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17579>; rel="up"
+Last-Modified: Thu, 09 Jun 2022 21:46:29 GMT
+ETag: "158V3Lahceclw1ZXhe4FDA"
+Date: Thu, 09 Jun 2022 21:49:53 GMT
+Content-Type: application/json
+Content-Length: 80
+
+{"name": "Bruce", "lastName": "Will", "stamina": 80, "strength": 120, "lvl": 10}
+
+3.0
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:52:38 GMT
+Content-Type: application/json
+Content-Length: 0
+
+{"name": "Vill", "lastName": "Warke", "stamina": 11, "strength": 50, "lvl": 1, "magic", true}
+
+
+4.0
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 21:58:04 GMT
+Content-Type: application/json
+Content-Length: 0
+
+{"name": "Bryn", "lastName": "DKY", "stamina": 200, "strength": 250}
+
+5.0
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 22:01:06 GMT
+Content-Type: application/json
+Content-Length: 0
+
+{"name": "Bryn", "lastName": "HGW", "stamina": 200, "strength": 250}
+
+6.0
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 22:05:00 GMT
+Content-Type: application/json
+Content-Length: 0
+
+7.0
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 22:05:12 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+
+8.0
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s17579/keys/WIQPOjVkxssc7KuJtdTHSd9TeUK
+Date: Thu, 09 Jun 2022 22:08:58 GMT
+Content-Type: application/json
+Content-Length: 0
+
+9.0
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvjdK2rAHIpTImMfKUPVa7A5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17579>; rel="up"
+Last-Modified: Thu, 09 Jun 2022 22:08:58 GMT
+ETag: "6aWWmuo7SseyNUjmfcNlHO"
+Date: Thu, 09 Jun 2022 22:13:44 GMT
+Content-Type: application/json
+Content-Length: 17
+
+{"test": "test1"}
+
+10.0
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 22:14:48 GMT
+Content-Type: application/json
+Content-Length: 0
+
+---- test 10.0
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Thu, 09 Jun 2022 22:15:29 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+
+
+
